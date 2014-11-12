@@ -1,0 +1,25 @@
+c:\users\serby\documents\visual studio 2010\Projects\Autogara\Autogara\bin\Debug\Autogara.exe
+c:\users\serby\documents\visual studio 2010\Projects\Autogara\Autogara\bin\Debug\Autogara.pdb
+c:\users\serby\documents\visual studio 2010\Projects\Autogara\Autogara\obj\x86\Debug\Autogara.Form1.resources
+c:\users\serby\documents\visual studio 2010\Projects\Autogara\Autogara\obj\x86\Debug\Autogara.Main.resources
+c:\users\serby\documents\visual studio 2010\Projects\Autogara\Autogara\obj\x86\Debug\Autogara.Properties.Resources.resources
+c:\users\serby\documents\visual studio 2010\Projects\Autogara\Autogara\obj\x86\Debug\Autogara.Second.resources
+c:\users\serby\documents\visual studio 2010\Projects\Autogara\Autogara\obj\x86\Debug\Autogara.csproj.GenerateResource.Cache
+c:\users\serby\documents\visual studio 2010\Projects\Autogara\Autogara\obj\x86\Debug\Autogara.exe
+c:\users\serby\documents\visual studio 2010\Projects\Autogara\Autogara\obj\x86\Debug\Autogara.pdb
+c:\users\serby\documents\visual studio 2010\Projects\Autogara\Autogara\bin\Debug\Autogara.mdf
+c:\users\serby\documents\visual studio 2010\Projects\Autogara\Autogara\bin\Debug\Autogara_log.ldf
+c:\users\serby\documents\visual studio 2010\Projects\Autogara\Autogara\bin\Debug\Autogara.exe.config
+c:\users\serby\documents\visual studio 2010\Projects\Autogara\Autogara\obj\x86\Debug\Autogara.Form2.resources
+c:\users\serby\documents\visual studio 2010\Projects\Autogara\Autogara\obj\x86\Debug\Autogara.Form3.resources
+c:\users\serby\documents\visual studio 2010\Projects\Autogara\Autogara\obj\x86\Debug\Autogara.Form5.resources
+c:\users\serby\documents\visual studio 2010\Projects\Autogara\Autogara\obj\x86\Debug\Autogara.Form6.resources
+c:\users\serby\documents\visual studio 2010\Projects\Autogara\Autogara\obj\x86\Debug\Autogara.Search.resources
+c:\users\serby\documents\visual studio 2010\Projects\Autogara\Autogara\obj\x86\Debug\Autogara.Cauta.resources
+C:\Users\Serby\Desktop\Proiect II\bin\Debug\Autogara.exe.config
+C:\Users\Serby\Desktop\Proiect II\obj\x86\Debug\Autogara.exe
+C:\Users\Serby\Desktop\Proiect II\obj\x86\Debug\Autogara.pdb
+C:\Users\Serban\Dropbox\Print\Proiect II\bin\Debug\Autogara.exe.config
+C:\Users\Serban\Dropbox\Print\Proiect II\obj\x86\Debug\Autogara.exe
+C:\Users\Serban\Dropbox\Print\Proiect II\obj\x86\Debug\Autogara.pdb
+C:\Users\Serban\Dropbox\Print\Proiect II\obj\x86\Debug\Autogara.csprojResolveAssemblyReference.cache
